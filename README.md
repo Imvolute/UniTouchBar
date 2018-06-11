@@ -1,13 +1,18 @@
 # UniTouchBar API
 
+This is an official repository of the **UniTouchBar Plugin** for Unity3D.
+Magical Tool which adds **TouchBar** to your Unity3D editor.
+
+
+
 
 ## Thanks for Help
-... We would be glad for reporting issues with plugin in this repo.
+  We would be glad for reporting issues with plugin in this repo.
 
 ## How to create your own touchbar strip for UNITY3D?
-... 1. Get **PRO** version here: [https://imvolute.com/unitouchbar](https://imvolute.com/unitouchbar)
-... 2. Open **Example.cs** in _Plugins/UniTouchBar/Groups_
-... 3. Enjoy our API 😎
+  1. Get **PRO** version here: [https://imvolute.com/unitouchbar](https://imvolute.com/unitouchbar)
+  2. Open **Example.cs** in _Plugins/UniTouchBar/Groups_
+  3. Enjoy our API 😎
 
 ## Plugin Documentation
-... You can see Scripting Reference [here](https://imvolute.com/unitouchbar)
+  You can see Scripting Reference [here](https://imvolute.com/unitouchbar)
