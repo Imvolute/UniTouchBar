@@ -15,4 +15,5 @@ Magical Tool which adds **TouchBar** to your Unity3D editor.
   3. Enjoy our API 😎
 
 ## Plugin Documentation
-  You can see Scripting Reference [https://imvolute.com/unitouchbar/api/](https://imvolute.com/unitouchbar/api/)
+We made some small guidance in the PDF [https://imvolute.com/unitouchbar/UniTouchBar%20-%20ReadMe.pdf](https://imvolute.com/unitouchbar/UniTouchBar%20-%20ReadMe.pdf)
+You can see Scripting Reference [https://imvolute.com/unitouchbar/api/](https://imvolute.com/unitouchbar/api/)
