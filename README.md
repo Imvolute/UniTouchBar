@@ -12,7 +12,7 @@ We would be glad for reporting issues with plugin in this repo.
 
 ## How to create your own touchbar strip for UNITY3D?
 1. Get **PRO** version here: [https://imvolute.com/unitouchbar](https://imvolute.com/unitouchbar) or directly from Unity Assets https://assetstore.unity.com/packages/tools/utilities/unitouchbar-for-macbook-120854
-2. Open **Example.cs** in _Plugins/UniTouchBar/Groups or download it here [https://github.com/Imvolute/UniTouchBar/blob/master/Example.cs](https://github.com/Imvolute/UniTouchBar/blob/master/Example.cs)
+2. Open **Example.cs**[https://github.com/Imvolute/UniTouchBar/blob/master/Example.cs] or **ExampleSlider.cs** and put to _Plugins/UniTouchBar/Groups
 3. Enjoy our API 😎
 
 All your costum scripts has to be placed in the Editor directory.
