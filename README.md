@@ -1,3 +1,4 @@
+
 # UniTouchBar API
 
 This is an official repository of the **UniTouchBar Plugin** for Unity3D.
@@ -14,6 +15,7 @@ We would be glad for reporting issues with plugin in this repo.
 2. Open **Example.cs** in _Plugins/UniTouchBar/Groups or download it here [https://github.com/Imvolute/UniTouchBar/blob/master/Example.cs](https://github.com/Imvolute/UniTouchBar/blob/master/Example.cs)
 3. Enjoy our API 😎
 
+All your costum scripts has to be placed in the Editor directory.
 ## Plugin Documentation
 * We made some small guidance in the PDF [https://imvolute.com/unitouchbar/UniTouchBar%20-%20ReadMe.pdf](https://imvolute.com/unitouchbar/UniTouchBar%20-%20ReadMe.pdf)
 * You can see Scripting Reference [https://imvolute.com/unitouchbar/api/](https://imvolute.com/unitouchbar/api/)
