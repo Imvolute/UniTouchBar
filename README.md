@@ -1,6 +1,6 @@
+![logo](https://imvolute.com/unitouchbar/img/logo.png)
 
-
-#UniTouchBar API
+# UniTouchBar API
 
 This is an official repository of the **UniTouchBar Plugin** for Unity3D.
 Magical Tool which adds **TouchBar** to your Unity3D editor.
