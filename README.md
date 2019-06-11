@@ -1,5 +1,6 @@
-<img src="https://camo.githubusercontent.com/7b073aa7b26aa00c415e9549f828bc9985f0c922/68747470733a2f2f696d766f6c7574652e636f6d2f756e69746f7563686261722f696d672f6c6f676f2e706e67" alt="logo" data-canonical-src="https://imvolute.com/unitouchbar/img/logo.png" style="max-width:50%;">
-# UniTouchBar API
+<img src="https://camo.githubusercontent.com/7b073aa7b26aa00c415e9549f828bc9985f0c922/68747470733a2f2f696d766f6c7574652e636f6d2f756e69746f7563686261722f696d672f6c6f676f2e706e67" alt="logo" data-canonical-src="https://imvolute.com/unitouchbar/img/logo.png" style="width:50%;">
+
+#UniTouchBar API
 
 This is an official repository of the **UniTouchBar Plugin** for Unity3D.
 Magical Tool which adds **TouchBar** to your Unity3D editor.
