@@ -1,4 +1,4 @@
-![logo](https://imvolute.com/unitouchbar/img/logo.png)
+![logo](https://imvolute.com/unitouchbar/img/logo.png =100x20)
 
 # UniTouchBar API
 
