@@ -1,4 +1,4 @@
-![logo](https://imvolute.com/unitouchbar/img/logo.png =200px)
+![logo](https://imvolute.com/unitouchbar/img/logo.png){ width=50%; }
 # UniTouchBar API
 
 This is an official repository of the **UniTouchBar Plugin** for Unity3D.
